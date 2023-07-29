@@ -2,7 +2,7 @@
 Efficient Project Management Through Intelligent Task Sequencing
 
 ## Overview
-TaskMaster is an efficient software solution designed to transform project execution by managing task dependencies with ease. This system leverages data structures and algorithms to seamlessly organize tasks, ensuring they are executed in a logical and timely manner. From reading and storing task information to calculating the earliest task commencement times, ProjectSolve offers a user-friendly interface that streamlines project planning, reduces timelines, and maximizes resource utilization.
+TaskMaster is an efficient software solution designed to transform project execution by managing task dependencies with ease. This system leverages data structures and algorithms to seamlessly organize tasks, ensuring they are executed in a logical and timely manner. From reading and storing task information to calculating the earliest task commencement times, TaskMaster offers a user-friendly interface that streamlines project planning, reduces timelines, and maximizes resource utilization.
 
 ## How to Use
 
