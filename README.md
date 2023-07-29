@@ -1,4 +1,4 @@
-# Project Solve
+# Task Master
 Efficient Project Management Through Intelligent Task Sequencing
 
 ## Overview
