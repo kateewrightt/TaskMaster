@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{21057A49-8FE9-4522-B605-10E707CF7D34}|Default">
+  <MonoDevelop.Ide.ItemProperties.CAB301__Assingment3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListOfTasks.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="ListOfTasks.cs" Line="247" Column="69" />
+      <File FileName="Graph.cs" />
+      <File FileName="Task.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CAB301_Assingment3" expanded="True">
+            <Node name="CAB301_Assingment3" expanded="True">
+              <Node name="ListOfTasks.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
