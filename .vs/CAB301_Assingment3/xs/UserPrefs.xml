@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{21057A49-8FE9-4522-B605-10E707CF7D34}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CAB301__Assingment3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="ListOfTasks.cs">
     <Files>
       <File FileName="Program.cs" />
-      <File FileName="ListOfTasks.cs" Line="247" Column="17" />
+      <File FileName="ListOfTasks.cs" Line="243" Column="21" />
       <File FileName="Graph.cs" />
       <File FileName="Task.cs" />
     </Files>
@@ -19,8 +23,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.TaskMaster PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
