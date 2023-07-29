@@ -1,4 +1,5 @@
 # Project Solve
+Efficient Project Management Through Intelligent Task Sequencing
 
 ## Overview
 ProjectSolve is a powerful and efficient software solution designed to revolutionize project execution by managing task dependencies with ease. This cutting-edge system leverages data structures and algorithms to seamlessly organize tasks, ensuring they are executed in a logical and timely manner. From reading and storing task information to calculating earliest task commencement times, ProjectSolve offers a user-friendly interface that streamlines project planning, reduces timelines, and maximizes resource utilization.
