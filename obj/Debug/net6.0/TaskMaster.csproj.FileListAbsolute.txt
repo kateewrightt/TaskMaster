@@ -1,0 +1,15 @@
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/TaskMaster
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/TaskMaster.deps.json
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/TaskMaster.runtimeconfig.json
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/TaskMaster.dll
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/TaskMaster.pdb
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.csproj.AssemblyReference.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.AssemblyInfoInputs.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.AssemblyInfo.cs
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.csproj.CoreCompileInputs.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.dll
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/refint/TaskMaster.dll
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.pdb
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/TaskMaster.genruntimeconfig.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/ref/TaskMaster.dll

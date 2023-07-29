@@ -73,3 +73,18 @@ G:/My Drive/QUT/Year 3, Semester 1/CAB301/Assignment 3/CAB301_Assingment3/CAB301
 /Users/katewright/Documents/CAB301 A3/CAB301_Assingment3/obj/Debug/net6.0/CAB301_Assingment3.pdb
 /Users/katewright/Documents/CAB301 A3/CAB301_Assingment3/obj/Debug/net6.0/CAB301_Assingment3.genruntimeconfig.cache
 /Users/katewright/Documents/CAB301 A3/CAB301_Assingment3/obj/Debug/net6.0/ref/CAB301_Assingment3.dll
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/CAB301_Assingment3
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/CAB301_Assingment3.deps.json
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/CAB301_Assingment3.runtimeconfig.json
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/CAB301_Assingment3.dll
+/Users/katewright/Desktop/TaskMaster/project-management/bin/Debug/net6.0/CAB301_Assingment3.pdb
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.csproj.AssemblyReference.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.AssemblyInfoInputs.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.AssemblyInfo.cs
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.csproj.CoreCompileInputs.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.dll
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/refint/CAB301_Assingment3.dll
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.pdb
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/CAB301_Assingment3.genruntimeconfig.cache
+/Users/katewright/Desktop/TaskMaster/project-management/obj/Debug/net6.0/ref/CAB301_Assingment3.dll
