@@ -23,6 +23,7 @@ ProjectSolve is an efficient software solution designed to transform project exe
 Each line in the text file corresponds to one task and follows the format:
 
 ***TaskID, TimeNeeded, Dependency1, Dependency2, ...***
-    -   **TaskID:** A unique identifier (string) for the task, e.g., "T1," "T2," "T3," etc.
-    -   **TimeNeeded:** A positive integer representing the time required to complete the task.
-    -   **Dependencies:** A list of task IDs (separated by commas) on which the task depends. This ensures tasks are executed only after their dependencies are completed.
+
+- **TaskID:** A unique identifier (string) for the task, e.g., "T1," "T2," "T3," etc.
+- **TimeNeeded:** A positive integer representing the time required to complete the task.
+- **Dependencies:** A list of task IDs (separated by commas) on which the task depends. This ensures tasks are executed only after their dependencies are completed.
