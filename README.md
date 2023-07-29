@@ -2,7 +2,7 @@
 Efficient Project Management Through Intelligent Task Sequencing
 
 ## Overview
-ProjectSolve is a powerful and efficient software solution designed to revolutionize project execution by managing task dependencies with ease. This cutting-edge system leverages data structures and algorithms to seamlessly organize tasks, ensuring they are executed in a logical and timely manner. From reading and storing task information to calculating earliest task commencement times, ProjectSolve offers a user-friendly interface that streamlines project planning, reduces timelines, and maximizes resource utilization.
+ProjectSolve is an efficient software solution designed to transform project execution by managing task dependencies with ease. This system leverages data structures and algorithms to seamlessly organize tasks, ensuring they are executed in a logical and timely manner. From reading and storing task information to calculating the earliest task commencement times, ProjectSolve offers a user-friendly interface that streamlines project planning, reduces timelines, and maximizes resource utilization.
 
 ## How to Use
 
@@ -18,3 +18,11 @@ ProjectSolve is a powerful and efficient software solution designed to revolutio
     -   **Find a Sequence of Tasks:** Find a sequence of tasks based on their dependencies and save them to a file.
     -   **Find Commencement Times:** Calculate and save the earliest commencement times of tasks.
     -   **Exit:** End the program.
+
+## Task Information Format
+Each line in the text file corresponds to one task and follows the format:
+
+***TaskID, TimeNeeded, Dependency1, Dependency2, ...***
+    -   **TaskID:** A unique identifier (string) for the task, e.g., "T1," "T2," "T3," etc.
+    -   **TimeNeeded:** A positive integer representing the time required to complete the task.
+    -   **Dependencies:** A list of task IDs (separated by commas) on which the task depends. This ensures tasks are executed only after their dependencies are completed.
