@@ -8,7 +8,7 @@ TaskMaster is an efficient software solution designed to transform project execu
 
 1.  Clone the repository to your local machine.
 2.  Navigate to the project directory.
-3.  Launch the TaskMaster application.
+3.  Launch the TaskMaster application using a C# development environment (e.g. Visual Studio).
 4.  Choose from the following options:
     -   **Import Tasks:** Provide a valid path to the file containing tasks to import them.
     -   **Add New Task:** Input the task's name, time cost, and any dependencies (leave blank if none).
